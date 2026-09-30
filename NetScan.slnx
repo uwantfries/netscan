@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NetScan/NetScan.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NetScan.Tests/NetScan.Tests.csproj" />
+  </Folder>
+</Solution>
